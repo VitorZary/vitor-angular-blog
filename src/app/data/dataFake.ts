@@ -3,7 +3,7 @@ export const dataFake = [
     "id": "1",
     "title": "Vitor Web Blog",
     "description": "Blog desenvolvido em Angular com base em um layout do Dribbble para desenvolvimento de habilidades de minha parte no framework angular.",
-    "photoCover" : "../../../assets/Vitor-Blog.png",
+    "photoCover" : "../../../assets/Vitor-Blog-pt1.png",
     "gitHubPages": "",
     "gitHubRepo": "https://github.com/VitorZary/vitor-angular-blog",
   },
