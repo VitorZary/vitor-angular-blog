@@ -1,0 +1,12 @@
+@media (max-width: 1000px){
+  #card-content{
+    padding: 20px;
+  }
+
+  #cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+  }
+}

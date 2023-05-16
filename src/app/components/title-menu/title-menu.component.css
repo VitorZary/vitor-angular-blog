@@ -1,0 +1,22 @@
+.title__menu {
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  min-height: 250px;
+  color: white;
+}
+
+.title__menu > h1 {
+  margin-bottom: 40px;
+  font-size: 50px;
+}
+
+.title__menu > p {
+  margin-bottom: 15px;
+}
+
+.title__menu > input {
+  border-radius: 5px;
+}

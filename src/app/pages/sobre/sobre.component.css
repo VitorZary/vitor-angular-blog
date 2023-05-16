@@ -1,0 +1,23 @@
+.container__sobre{
+  margin-top: 20px;
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container__sobre > a{
+  margin-bottom: 15px;
+}
+
+.sobre__cover > img{
+  width: 80%;
+}
+
+.sobre__description > p {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.sobre__description > p > span{
+  color: grey;
+}

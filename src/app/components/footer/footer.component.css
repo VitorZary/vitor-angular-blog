@@ -1,0 +1,38 @@
+.footer{
+  background-color: #4746d8;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer > ul{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.footer > ul > li{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-right: 20px;
+  font-size: larger;
+  color: lightgray;
+  text-align: center;
+}
+
+.footer > ul > li > a{
+  color: lightgray;
+}
+
+.footer > ul > li > a:hover{
+  color: white;
+}
+
+.footer > a{
+  color: lightgray;
+}
+
+.footer > a:hover{
+  color: white;
+}
